@@ -1,7 +1,7 @@
 # Alberto Roque Carrizo Fernández
 
 <div>
-  <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#99;&#x6f;&#110;&#116;&#97;&#99;&#116;&#64;&#114;&#x6f;&#x71;&#117;&#x65;&#99;&#x2e;&#99;&#x6f;&#109;">&#99;&#x6f;&#110;&#116;&#97;&#99;&#116;&#64;&#114;&#x6f;&#x71;&#117;&#x65;&#99;&#x2e;&#99;&#x6f;&#109;</a>
+  <a href="mailto:contact@roquec.com">contact@roquec.com</a>
   | <a href="https://roquec.com">roquec.com</a>
   | <a href="https://github.com/roquec">github.com/roquec</a>
   | <a href="https://www.linkedin.com/in/roquec">linkedin.com/in/roquec</a>
