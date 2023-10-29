@@ -25,7 +25,10 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
       # Execute script to add a content hash to all asset links in generated site
       - name: Copy HTML file into '_site' folder
-        run: mkdir -p ./_site && cp ./src/resume.html ./_site/
+        run: |
+          mkdir -p ./_site
+          cp ./src/resume.html ./_site/index.html
+          cp ./src/resume.pdf ./_site/roque-carrizo-resume.pdf
       # Upload generated site as an artifact so the following jobs can access it
       - name: Upload website artifact
         uses: actions/upload-pages-artifact@v2
