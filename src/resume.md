@@ -5,7 +5,6 @@
   | <a href="https://github.com/roquec">github.com/roquec</a>
   | <a href="https://www.linkedin.com/in/roquec">linkedin.com/in/roquec</a>
   | <a href="mailto:contact@roquec.com">contact@roquec.com</a>
-  | +34 645077965
 </div>
 
 ## Introduction
