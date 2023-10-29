@@ -3,7 +3,7 @@ name: CI/CD
 on: push
 
 jobs:
-  convert_via_pandoc:
+  pdf:
     runs-on: ubuntu-latest
 
     permissions:
@@ -17,6 +17,6 @@ jobs:
       - name: Generate PDF file
         uses: docker://pandoc/latex:3.1.1
         with:
-          args: --output=resume.pdf resume.md
+          args: --output=resume.pdf --pdf-engine=xelatex resume.md
       # Commit resume.pdf file back into repository
       - uses: stefanzweifel/git-auto-commit-action@v5
