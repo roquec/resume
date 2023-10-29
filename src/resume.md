@@ -13,7 +13,7 @@ I am an experienced software engineer with a pragmatic approach, valuing simplic
 
 ## Skills
 
-`.NET` `C#` `Azure` `SQL` `Elasticsearch` `Git` `JavaScript` `Docker` `Microservices` `GQL` `SASS` `Powershell`
+`.NET` `C#` `Azure` `SQL` `Elasticsearch` `Git` `JavaScript` `Docker` `Microservices` `GQL` `SASS`
 
 ## Experience
 
