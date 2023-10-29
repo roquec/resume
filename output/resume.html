@@ -1010,7 +1010,17 @@ pre code {
   margin: 0 0.2em 0.25em -1.6em;
   vertical-align: middle;
 }
-/*
+@media print {
+    body {
+        min-width: initial !important;
+        max-width: 100% !important;
+        margin: 0 auto !important;
+    }
+
+    h1 {
+        margin-top: 0 !important;
+    }
+}/*
 github.com style (c) Vasily Polovnyov <vast@whiteants.net>
 */
   
@@ -1114,54 +1124,43 @@ github.com style (c) Vasily Polovnyov <vast@whiteants.net>
   | <a href="https://www.linkedin.com/in/roquec">linkedin.com/in/roquec</a>
 </div>
 <h2 id="introduction" tabindex="-1"><a class="anchor" href="#introduction" aria-hidden="true"><span class="octicon octicon-link"></span></a> Introduction</h2>
-<p>I am a seasoned software engineer with a pragmatic problem-solving mindset, constantly looking for ways to simplify
-complexity. Possessing a strong sense of independence and a knack for self-directed learning, I am actively seeking
-opportunities to tackle new challenges that bring tangible value to both clients and society.</p>
+<p>I am an experienced software engineer with a pragmatic approach, valuing simplicity in solutions. Highly independent and adept at self-learning, I seek opportunities to deliver genuine value to clients and society.</p>
+<h2 id="skills" tabindex="-1"><a class="anchor" href="#skills" aria-hidden="true"><span class="octicon octicon-link"></span></a> Skills</h2>
+<p><code>.NET</code> <code>C#</code> <code>Azure</code> <code>SQL</code> <code>Elasticsearch</code> <code>Git</code> <code>JavaScript</code> <code>Docker</code> <code>Microservices</code> <code>GQL</code> <code>SASS</code> <code>Powershell</code></p>
 <h2 id="experience" tabindex="-1"><a class="anchor" href="#experience" aria-hidden="true"><span class="octicon octicon-link"></span></a> Experience</h2>
-<p><em>2018-2022</em> ǀ <strong>Senior Backend Engineer</strong> at NEOCLES <em>(.NET, C#, SQL, ES, Azure)</em></p>
+<p><em>2018-2022</em> ǀ <strong>Senior Backend Engineer</strong> at NEOCLES <em>(.NET, C#, SQL, Elasticsearch, Azure)</em></p>
 <ul>
-<li>Designed and built high-performance APIs for core e-commerce functions, handling concurrent users in the thousands.</li>
+<li>Developed high-performance e-commerce APIs for thousands of concurrent users.</li>
 <li>Managed releases and maintenance for 5 segregated client production environments.</li>
+<li>Developed backend services receiving 10M+ import messages daily from external systems.</li>
+<li>Led upgrade and configuration of 30+ Elasticsearch servers, saving thousands of euros monthly.</li>
 <li>Worked directly with clients conducting fit-gap analyses to integrate new services.</li>
-<li>Developed backend services receiving 10M + of import messages daily from external systems.</li>
-<li>Led upgrade and configuration of 30+ Elasticsearch servers housing hundreds of millions of documents saving
-thousands of euros monthly.</li>
 </ul>
-<p><em>2017-2018</em> ǀ <strong>Fullstack Developer</strong> at INVESTEL <em>(AngularJS, C#, SQL)</em></p>
+<p><em>2017-2018</em> ǀ <strong>Fullstack Developer</strong> at INVESTEL <em>(AngularJS, C#, SQL, .NET Framework)</em></p>
 <ul>
 <li>Led development of an AngularJS management application for internal use.</li>
-<li>Worked with designer on implementation of new frontend for existing application as an SPA using Angular.</li>
-<li>Transitioned to fullstack developer for new features and bug fixes on backend too.</li>
+<li>Worked with designer on implementation of new Angular frontend for existing application.</li>
+<li>Evolved into a fullstack developer role, implementing new features and addressing backend bugs.</li>
 <li>Implemented and documented OAuth service for external client authentication.</li>
 </ul>
-<p><em>2015-2016</em> ǀ <strong>Internship</strong> at EDP <em>(ASP.NET Web Forms, C#)</em></p>
-<ul>
-<li>Implemented new Excel export functionality on existing ASP.NET Web Forms app.</li>
-<li>Started efforts to make the application responsive for mobile devices.</li>
-</ul>
-<p><em>2015</em> ǀ <strong>Practices</strong> at TUINSA NORTE <em>(Unity3D, C#, MySQL)</em></p>
-<ul>
-<li>Designed and implemented a MySQL database based on business requirements provided.</li>
-<li>Developed Android application with Unity3D to visualize user uploaded 3D product models.</li>
-</ul>
 <h2 id="projects" tabindex="-1"><a class="anchor" href="#projects" aria-hidden="true"><span class="octicon octicon-link"></span></a> Projects</h2>
-<p><em>2023</em> ǀ <strong>Portfolio Website</strong> with markdown based content powered by Jekyll and hosted with GitHub
-Pages. Styling and structure manually developed with vanilla CSS. <a href="https://roquec.com/">https://roquec.com/</a></p>
-<p><em>2022-2023</em> ǀ <strong>Vessel Navigation</strong> Windows desktop application implemented with WinUI 3. Leverages incoming data from
-AIS devices to display navigation information and manoeuvre recommendations.</p>
-<p><em>2017</em> ǀ <strong>AR Puzzle</strong> Android game implemented using Unity that breaks the incoming camera image into puzzle pieces
-that must be found using the camera to piece the live image back together.</p>
-<p><em>2016</em> ǀ <strong>Rock Slide</strong> Game for Android devices developed with Unity3D and integrated with Google Play Services. All
-the graphics were designed with Paint.net.</p>
+<p><em>2022-Present</em> ǀ <strong>Ship Navigation Application</strong> <em>(WinUI3, C#, .NET)</em></p>
+<ul>
+<li>Designed and build Windows desktop application based on clients requirements.</li>
+<li>Integrated with Automatic Identification Systems (AIS) via serial port connection.</li>
+</ul>
+<p><em>2023</em> ǀ <strong>Portfolio Website: roquec.com</strong> <em>(Jekyll, JavaScript, SASS, GitHub Actions)</em></p>
+<ul>
+<li>Developed custom SASS styling to imitate Visual Studio Code look.</li>
+<li>Created JavaScript solution for smooth SPA-like state through page navigations.</li>
+<li>Automated deployments, Lighthouse testing and reporting using GitHub Actions and Powershell.</li>
+</ul>
 <h2 id="education" tabindex="-1"><a class="anchor" href="#education" aria-hidden="true"><span class="octicon octicon-link"></span></a> Education</h2>
-<p><em>2011-2016</em> ǀ <strong>Bachelor's degree, Computer Software Engineering</strong> from University of Oviedo.</p>
-<h2 id="merits" tabindex="-1"><a class="anchor" href="#merits" aria-hidden="true"><span class="octicon octicon-link"></span></a> Merits</h2>
 <p><em>2019</em> ǀ <strong>Microsoft Exam AZ-400</strong> Designing and Implementing Microsoft DevOps
-Solutions. <a href="https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/">https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/</a></p>
-<p><em>2014</em> ǀ <strong>Neo4j Graph Gist Winter Challenge</strong> (Graph database design contest), 1º place in the category of “life
-science”. <a href="http://neo4j.com/blog/graph-gist-winter-challenge-winners/">http://neo4j.com/blog/graph-gist-winter-challenge-winners/</a></p>
+Solutions.</p>
+<p><em>2011-2016</em> ǀ <strong>Bachelor's degree, Computer Software Engineering</strong> from University of Oviedo.</p>
 <h2 id="languages" tabindex="-1"><a class="anchor" href="#languages" aria-hidden="true"><span class="octicon octicon-link"></span></a> Languages</h2>
-<p>English ǀ <strong>Advanced level (C2)</strong>. IELTS with a 7.5 grade, April 30, 2010.</p>
+<p>English ǀ <strong>Full professional proficiency</strong>.</p>
 <p>Spanish ǀ <strong>Native</strong>.</p>
 
 		</main>
