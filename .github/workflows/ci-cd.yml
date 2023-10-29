@@ -17,7 +17,6 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: ./resume.md
-          output_dir: .
           build_html: false
       # Commit resume.pdf file back into repository
       - uses: stefanzweifel/git-auto-commit-action@v5
