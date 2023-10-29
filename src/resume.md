@@ -9,64 +9,49 @@
 
 ## Introduction
 
-I am a seasoned software engineer with a pragmatic problem-solving mindset, constantly looking for ways to simplify
-complexity. Possessing a strong sense of independence and a knack for self-directed learning, I am actively seeking
-opportunities to tackle new challenges that bring tangible value to both clients and society.
+I am an experienced software engineer with a pragmatic approach, valuing simplicity in solutions. Highly independent and adept at self-learning, I seek opportunities to deliver genuine value to clients and society.
+
+## Skills
+
+`.NET` `C#` `Azure` `SQL` `Elasticsearch` `Git` `JavaScript` `Docker` `Microservices` `GQL` `SASS` `Powershell`
 
 ## Experience
 
-_2018-2022_ ǀ **Senior Backend Engineer** at NEOCLES _(.NET, C#, SQL, ES, Azure)_
+_2018-2022_ ǀ **Senior Backend Engineer** at NEOCLES _(.NET, C#, SQL, Elasticsearch, Azure)_
 
-* Designed and built high-performance APIs for core e-commerce functions, handling concurrent users in the thousands.
+* Developed high-performance e-commerce APIs for thousands of concurrent users.
 * Managed releases and maintenance for 5 segregated client production environments.
+* Developed backend services receiving 10M+ import messages daily from external systems.
+* Led upgrade and configuration of 30+ Elasticsearch servers, saving thousands of euros monthly.
 * Worked directly with clients conducting fit-gap analyses to integrate new services.
-* Developed backend services receiving 10M + of import messages daily from external systems.
-* Led upgrade and configuration of 30+ Elasticsearch servers housing hundreds of millions of documents saving
-  thousands of euros monthly.
 
-_2017-2018_ ǀ **Fullstack Developer** at INVESTEL _(AngularJS, C#, SQL)_
+_2017-2018_ ǀ **Fullstack Developer** at INVESTEL _(AngularJS, C#, SQL, .NET Framework)_
 
 * Led development of an AngularJS management application for internal use.
-* Worked with designer on implementation of new frontend for existing application as an SPA using Angular.
-* Transitioned to fullstack developer for new features and bug fixes on backend too.
+* Worked with designer on implementation of new Angular frontend for existing application.
+* Evolved into a fullstack developer role, implementing new features and addressing backend bugs.
 * Implemented and documented OAuth service for external client authentication.
-
-_2015-2016_ ǀ **Internship** at EDP _(ASP.NET Web Forms, C#)_ 
-* Implemented new Excel export functionality on existing ASP.NET Web Forms app.
-* Started efforts to make the application responsive for mobile devices.
-
-_2015_ ǀ **Practices** at TUINSA NORTE _(Unity3D, C#, MySQL)_
-* Designed and implemented a MySQL database based on business requirements provided.
-* Developed Android application with Unity3D to visualize user uploaded 3D product models.
 
 ## Projects
 
-_2023_ ǀ **Portfolio Website** with markdown based content powered by Jekyll and hosted with GitHub
-Pages. Styling and structure manually developed with vanilla CSS. [https://roquec.com/](https://roquec.com/)
+_2022-Present_ ǀ **Ship Navigation Application** _(WinUI3, C#, .NET)_
+* Designed and build Windows desktop application based on clients requirements.
+* Integrated with Automatic Identification Systems (AIS) via serial port connection.
 
-_2022-2023_ ǀ **Vessel Navigation** Windows desktop application implemented with WinUI 3. Leverages incoming data from
-AIS devices to display navigation information and manoeuvre recommendations.
-
-_2017_ ǀ **AR Puzzle** Android game implemented using Unity that breaks the incoming camera image into puzzle pieces
-that must be found using the camera to piece the live image back together.
-
-_2016_ ǀ **Rock Slide** Game for Android devices developed with Unity3D and integrated with Google Play Services. All
-the graphics were designed with Paint.net.
+_2023_ ǀ **Portfolio Website: roquec.com** _(Jekyll, JavaScript, SASS, GitHub Actions)_
+* Developed custom SASS styling to imitate Visual Studio Code look.
+* Created JavaScript solution for smooth SPA-like state through page navigations.
+* Automated deployments, Lighthouse testing and reporting using GitHub Actions and Powershell.
 
 ## Education
 
-_2011-2016_ ǀ **Bachelor's degree, Computer Software Engineering** from University of Oviedo.
-
-## Merits
-
 _2019_ ǀ **Microsoft Exam AZ-400** Designing and Implementing Microsoft DevOps
-Solutions. [https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/)
+Solutions.
 
-_2014_ ǀ **Neo4j Graph Gist Winter Challenge** (Graph database design contest), 1º place in the category of “life
-science”. [http://neo4j.com/blog/graph-gist-winter-challenge-winners/](http://neo4j.com/blog/graph-gist-winter-challenge-winners/)
+_2011-2016_ ǀ **Bachelor's degree, Computer Software Engineering** from University of Oviedo.
 
 ## Languages
 
-English ǀ **Advanced level (C2)**. IELTS with a 7.5 grade, April 30, 2010.
+English ǀ **Full professional proficiency**.
 
 Spanish ǀ **Native**.

@@ -19,6 +19,7 @@ jobs:
         with:
           input_path: ./src/resume.md
           output_dir: ./output/
+          theme: ./src/styles.css
           build_html: true
       # Commit resume.pdf file back into repository
       - name: Commit PDF file into repository
