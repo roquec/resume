@@ -1,14 +1,14 @@
 # Alberto Roque Carrizo Fernández
 
 <div>
-  <a href="mailto:contact@roquec.com">contact@roquec.com</a>
-  | +34 645077965
-  | <a href="https://roquec.com">https://roquec.com</a>
+  <a href="https://roquec.com">roquec.com</a>
   | <a href="https://github.com/roquec">github.com/roquec</a>
   | <a href="https://www.linkedin.com/in/roquec">linkedin.com/in/roquec</a>
+  | <a href="mailto:contact@roquec.com">contact@roquec.com</a>
+  | +34 645077965
 </div>
 
-## Summary
+## Introduction
 
 I am an experienced software engineer with a pragmatic approach, valuing simplicity in solutions. Highly independent and adept at self-learning, I seek opportunities to deliver genuine value to clients and society. Aside from coding I also share my insights and experiences through tech articles on my personal blog.
 
