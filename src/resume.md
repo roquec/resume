@@ -9,22 +9,22 @@
 
 ## Introduction
 
-I am an experienced software engineer with a pragmatic approach, valuing simplicity in solutions. Highly independent and adept at self-learning, I seek opportunities to deliver genuine value to clients and society.
+I am an experienced software engineer with a pragmatic approach, valuing simplicity in solutions. Highly independent and adept at self-learning, I seek opportunities to deliver genuine value to clients and society. Aside from coding I also share my insights and experiences through tech articles on my personal blog.
 
 ## Skills
 
-`.NET` `C#` `Azure` `SQL` `Elasticsearch` `Git` `JavaScript` `Docker` `Microservices` `GQL` `SASS` `Powershell`
+`.NET` `C#` `Azure` `SQL` `Elasticsearch` `Git` `JavaScript` `Docker` `Microservices` `GQL` `SASS` `Powershell` `Grafana`
 
 ## Experience
 
 _2018-2022_ ǀ **Senior Backend Engineer** at NEOCLES (B2B e-commerce platform for fashion)
 
-* Developed high-performance e-commerce APIs for thousands of concurrent users.
+* Designed and built high-performance e-commerce APIs for thousands of concurrent users.
 * Managed releases and maintenance for 5 segregated client production environments.
 * Developed backend services receiving 10M+ import messages daily from external systems.
 * Led upgrade and configuration of 30+ Elasticsearch servers, saving thousands of euros monthly.
-* Worked directly with clients conducting fit-gap analyses to integrate new services.
-* Technology stack `.NET` `C#` `SQL` `Elasticsearch` `Azure` `Angular`
+* Worked directly with clients conducting fit-gap analyses to integrate new services and features.
+* Used `.NET` `C#` `SQL` `Elasticsearch` `Azure` `Angular` `AKS`.
 
 _2017-2018_ ǀ **Fullstack Developer** at INVESTEL (fleet management system)
 
@@ -32,7 +32,7 @@ _2017-2018_ ǀ **Fullstack Developer** at INVESTEL (fleet management system)
 * Worked with designer on implementation of new Angular frontend for existing application.
 * Evolved into a fullstack developer role, implementing new features and addressing backend bugs.
 * Implemented and documented OAuth service for external client authentication.
-* Technology stack `AngularJS` `C#` `SQL` `.NET Framework`
+* Used `AngularJS` `C#` `SQL` `.NET Framework`.
 
 ## Projects
 
@@ -47,13 +47,10 @@ _2023_ ǀ **Portfolio Website: roquec.com** `Jekyll` `JavaScript` `SASS`
 
 ## Education
 
-_2019_ ǀ **Microsoft Exam AZ-400** Designing and Implementing Microsoft DevOps
-Solutions.
+_2019_ ǀ **Microsoft Exam AZ-400** Designing and Implementing Microsoft DevOps Solutions.
 
-_2011-2016_ ǀ **Bachelor's degree, Computer Software Engineering** from University of Oviedo.
+_2011-2016_ ǀ **Bachelor's degree, Computer Software Engineering** from University of Oviedo, Spain.
 
 ## Languages
 
-English ǀ **Full professional proficiency**.
-
-Spanish ǀ **Native**.
+**English** (Full professional proficiency) and **Spanish** (Native).
