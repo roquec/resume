@@ -13,32 +13,34 @@ I am an experienced software engineer with a pragmatic approach, valuing simplic
 
 ## Skills
 
-`.NET` `C#` `Azure` `SQL` `Elasticsearch` `Git` `JavaScript` `Docker` `Microservices` `GQL` `SASS`
+`.NET` `C#` `Azure` `SQL` `Elasticsearch` `Git` `JavaScript` `Docker` `Microservices` `GQL` `SASS` `Powershell`
 
 ## Experience
 
-_2018-2022_ ǀ **Senior Backend Engineer** at NEOCLES _(.NET, C#, SQL, Elasticsearch, Azure)_
+_2018-2022_ ǀ **Senior Backend Engineer** at NEOCLES (B2B e-commerce platform for fashion)
 
 * Developed high-performance e-commerce APIs for thousands of concurrent users.
 * Managed releases and maintenance for 5 segregated client production environments.
 * Developed backend services receiving 10M+ import messages daily from external systems.
 * Led upgrade and configuration of 30+ Elasticsearch servers, saving thousands of euros monthly.
 * Worked directly with clients conducting fit-gap analyses to integrate new services.
+* Technology stack `.NET` `C#` `SQL` `Elasticsearch` `Azure` `Angular`
 
-_2017-2018_ ǀ **Fullstack Developer** at INVESTEL _(AngularJS, C#, SQL, .NET Framework)_
+_2017-2018_ ǀ **Fullstack Developer** at INVESTEL (fleet management system)
 
 * Led development of an AngularJS management application for internal use.
 * Worked with designer on implementation of new Angular frontend for existing application.
 * Evolved into a fullstack developer role, implementing new features and addressing backend bugs.
 * Implemented and documented OAuth service for external client authentication.
+* Technology stack `AngularJS` `C#` `SQL` `.NET Framework`
 
 ## Projects
 
-_2022-Present_ ǀ **Ship Navigation Application** _(WinUI3, C#, .NET)_
+_2022-Present_ ǀ **Ship Navigation Application**  `WinUI3` `C#` `.NET`
 * Designed and build Windows desktop application based on clients requirements.
 * Integrated with Automatic Identification Systems (AIS) via serial port connection.
 
-_2023_ ǀ **Portfolio Website: roquec.com** _(Jekyll, JavaScript, SASS, GitHub Actions)_
+_2023_ ǀ **Portfolio Website: roquec.com** `Jekyll` `JavaScript` `SASS`
 * Developed custom SASS styling to imitate Visual Studio Code look.
 * Created JavaScript solution for smooth SPA-like state through page navigations.
 * Automated deployments, Lighthouse testing and reporting using GitHub Actions and Powershell.
