@@ -2,11 +2,14 @@ name: CI/CD
 
 on: push
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       # Download latest version of https://github.com/roquec/resume
       - name: Checkout resume repository
