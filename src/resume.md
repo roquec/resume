@@ -31,11 +31,13 @@ _2017-2018_ ǀ **Fullstack Developer** at INVESTEL _(AngularJS, C#, SQL)_
 * Transitioned to fullstack developer for new features and bug fixes on backend too.
 * Implemented and documented OAuth service for external client authentication.
 
-_2015-2016_ ǀ **Internship** at EDP using ASP.NET Web Forms to implement Excel export functionality on web forms
-management application.
+_2015-2016_ ǀ **Internship** at EDP _(ASP.NET Web Forms, C#)_ 
+* Implemented new Excel export functionality on existing ASP.NET Web Forms app.
+* Started efforts to make the application responsive for mobile devices.
 
-_2015_ ǀ **Practices** at TUINSA NORTE using Unity3D to build an Android application to import and visualize 3D
-product models.
+_2015_ ǀ **Practices** at TUINSA NORTE _(Unity3D, C#, MySQL)_
+* Designed and implemented a MySQL database based on business requirements provided.
+* Developed Android application with Unity3D to visualize user uploaded 3D product models.
 
 ## Projects
 
@@ -53,7 +55,7 @@ the graphics were designed with Paint.net.
 
 ## Education
 
-_2011-2016_ ǀ **Software Engineering Degree** “Grado en ingeniería informática del software” Universidad de Oviedo.
+_2011-2016_ ǀ **Bachelor's degree, Computer Software Engineering** from University of Oviedo.
 
 ## Merits
 
