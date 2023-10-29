@@ -2,11 +2,10 @@
 
 <div>
   <a href="mailto:contact@roquec.com">contact@roquec.com</a>
+  | +34 645077965
   | <a href="https://roquec.com">https://roquec.com</a>
   | <a href="https://github.com/roquec">github.com/roquec</a>
   | <a href="https://www.linkedin.com/in/roquec">linkedin.com/in/roquec</a>
-  | +34 645077965
-  | Gijón (Spain)
 </div>
 
 ## Summary
