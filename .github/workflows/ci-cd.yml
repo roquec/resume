@@ -18,7 +18,7 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: ./src/resume.md
-          output_dir: ./src/
+          output_dir: ./output/
           build_html: true
       # Commit resume.pdf file back into repository
       - name: Commit PDF file into repository
@@ -27,8 +27,8 @@ jobs:
       - name: Copy HTML file into '_site' folder
         run: |
           mkdir -p ./_site
-          cp ./src/resume.html ./_site/index.html
-          cp ./src/resume.pdf ./_site/roque-carrizo-resume.pdf
+          cp ./output/resume.html ./_site/index.html
+          cp ./output/resume.pdf ./_site/roque-carrizo-resume.pdf
       # Upload generated site as an artifact so the following jobs can access it
       - name: Upload website artifact
         uses: actions/upload-pages-artifact@v2
