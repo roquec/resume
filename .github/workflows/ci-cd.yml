@@ -16,8 +16,8 @@ jobs:
       # Generate PDF from resume.md file
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          input_path: ./resume.md
-          output_dir: ./
+          input_path: src/resume.md
+          output_dir: src
           build_html: true
       # Commit resume.pdf file back into repository
       - uses: stefanzweifel/git-auto-commit-action@v5
