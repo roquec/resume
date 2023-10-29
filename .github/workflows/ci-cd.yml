@@ -1,0 +1,22 @@
+name: CI/CD
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      # Download latest version of https://github.com/roquec/resume
+      - name: Checkout resume repository
+        uses: actions/checkout@v4
+      # Generate PDF from resume.md file
+      - name: Generate PDF file
+        uses: docker://pandoc/latex:3.1.1
+        with:
+          args: --output=resume.pdf resume.md
+      # Commit resume.pdf file back into repository
+      - uses: stefanzweifel/git-auto-commit-action@v5
