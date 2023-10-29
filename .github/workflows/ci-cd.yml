@@ -14,9 +14,10 @@ jobs:
       - name: Checkout resume repository
         uses: actions/checkout@v4
       # Generate PDF from resume.md file
-      - name: Generate PDF file
-        uses: docker://pandoc/latex:3.1.1
+      - uses: baileyjm02/markdown-to-pdf@v1
         with:
-          args: --output=resume.pdf --pdf-engine=xelatex resume.md
+          input_path: resume.md
+          output_dir: .
+          build_html: false
       # Commit resume.pdf file back into repository
       - uses: stefanzweifel/git-auto-commit-action@v5
