@@ -14,7 +14,7 @@ I am an experienced software engineer with a pragmatic approach, valuing simplic
 
 ## Skills
 
-`.NET` `C#` `Azure` `SQL` `Elasticsearch` `Git` `JavaScript` `Docker` `Microservices` `GQL` `SASS` `Powershell` `Grafana`
+`.NET` `C#` `Azure` `Redis` `SQL` `Elasticsearch` `Git` `Docker` `Microservices` `GQL`  `Powershell` `JavaScript` `SASS` `Agile` 
 
 ## Experience
 
@@ -25,15 +25,15 @@ _Sep 2018 - May 2022_ · **Senior Backend Engineer** at NEOCLES (B2B e-commerce 
 * Developed backend services receiving 10M+ import messages daily from external systems.
 * Led upgrade and configuration of 30+ Elasticsearch servers, saving thousands of euros monthly.
 * Worked directly with clients conducting fit-gap analyses to integrate new services and features.
-* Used `.NET` `C#` `SQL` `Elasticsearch` `Azure` `Angular` `AKS`.
+* Used `.NET` `C#` `SQL` `Elasticsearch` `Azure` `Redis` `Docker` `AKS` `Service Bus`.
 
-_Jan 2017- Sep 2018_ · **Fullstack Developer** at INVESTEL (fleet management system)
+_Jan 2017- Sep 2018_ · **Full-stack Developer** at INVESTEL (fleet management system)
 
 * Led development of an AngularJS management application for internal use.
 * Worked with designer on implementation of new Angular frontend for existing application.
-* Evolved into a fullstack developer role, implementing new features and addressing backend bugs.
+* Evolved into a full-stack developer role, addressing bugs and implementing new features in the backend.
 * Implemented and documented OAuth service for external client authentication.
-* Used `AngularJS` `C#` `SQL` `.NET Framework`.
+* Used `AngularJS` `C#` `SQL` `.NET Framework` `Redis` `Mercurial`.
 
 ## Projects
 
