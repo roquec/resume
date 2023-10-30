@@ -1,11 +1,11 @@
 # Alberto Roque Carrizo Fernández
 
 <div>
-  <a href="https://roquec.com">roquec.com</a> · 
-  <a href="https://github.com/roquec">github.com/roquec</a> · 
-  <a href="https://www.linkedin.com/in/roquec">linkedin.com/in/roquec</a> · 
-  <a href="mailto:contact@roquec.com">contact@roquec.com</a> · 
-  <a href="https://maps.app.goo.gl/5ugmj2YVeL6EC6iC7">Gijón, Spain</a>
+<a href="https://roquec.com">roquec.com</a>&nbsp;&nbsp;·&nbsp;
+<a href="https://github.com/roquec">github.com/roquec</a>&nbsp;&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/roquec">linkedin.com/in/roquec</a>&nbsp;&nbsp;·&nbsp;
+<a href="mailto:contact@roquec.com">contact@roquec.com</a>&nbsp;&nbsp;·&nbsp;
+<a href="https://maps.app.goo.gl/5ugmj2YVeL6EC6iC7">Gijón, Spain</a>
 </div>
 
 ## Introduction
@@ -37,11 +37,11 @@ _Jan 2017- Sep 2018_ · **Fullstack Developer** at INVESTEL (fleet management sy
 
 ## Projects
 
-_Sep 2022 - Present_ · **Ship Navigation Application**  `WinUI3` `C#` `.NET`
+_Sep 2022 - Present_ · **Ship Navigation Application** · `WinUI3` `C#` `.NET`
 * Designed and build Windows desktop application based on clients requirements.
 * Integrated with Automatic Identification Systems (AIS) via serial port connection.
 
-_Mar 2023 - Oct 2023_ · **Portfolio Website: roquec.com** `Jekyll` `JavaScript` `SASS`
+_Mar 2023 - Oct 2023_ · **Portfolio Website: roquec.com** · `Jekyll` `JavaScript` `SASS`
 * Developed custom SASS styling to imitate Visual Studio Code look.
 * Created JavaScript solution for smooth SPA-like state through page navigations.
 * Automated deployments, Lighthouse testing and reporting using GitHub Actions and Powershell.
