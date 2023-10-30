@@ -1,10 +1,11 @@
 # Alberto Roque Carrizo Fernández
 
 <div>
-  <a href="https://roquec.com">roquec.com</a>
-  | <a href="https://github.com/roquec">github.com/roquec</a>
-  | <a href="https://www.linkedin.com/in/roquec">linkedin.com/in/roquec</a>
-  | <a href="mailto:contact@roquec.com">contact@roquec.com</a>
+  <a href="https://roquec.com"><i class="fa-solid fa-globe"></i> roquec.com</a> ·
+  <a href="https://github.com/roquec"><i class="fa-brands fa-github"></i> github.com/roquec</a> ·
+  <a href="https://www.linkedin.com/in/roquec"><i class="fa-brands fa-linkedin"></i> linkedin.com/in/roquec</a> ·
+  <a href="mailto:contact@roquec.com"><i class="fa-solid fa-envelope"></i> contact@roquec.com</a> ·
+  <a href="https://maps.app.goo.gl/5ugmj2YVeL6EC6iC7"><i class="fa-solid fa-location-dot"></i> Gijón, Spain</a>
 </div>
 
 ## Introduction
