@@ -5,18 +5,24 @@
 <a href="https://github.com/roquec">github.com/roquec</a>&nbsp;&nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/roquec">linkedin.com/in/roquec</a>&nbsp;&nbsp;·&nbsp;
 <a href="mailto:contact@roquec.com">contact@roquec.com</a>&nbsp;&nbsp;·&nbsp;
+<a href="tel:+34645077965">+34 645077965</a>&nbsp;&nbsp;·&nbsp;
 <a href="https://maps.app.goo.gl/5ugmj2YVeL6EC6iC7">Gijón, Spain</a>
 </div>
 
 ## Introduction
 
-I am an experienced software engineer with a pragmatic approach, valuing simplicity in solutions. Highly independent and adept at self-learning, I seek opportunities to deliver genuine value to clients and society. Aside from coding I also share my insights and experiences through tech articles on my personal blog.
+I am an experienced software engineer with a pragmatic approach, valuing simplicity in solutions. Highly independent and adept at self-learning, I seek opportunities to deliver genuine value to clients and society. Currently I develop Windows desktop applications at Metrohm DropSens.
 
 ## Skills
 
-`.NET` `C#` `Azure` `SQL` `Elasticsearch` `Redis` `Git` `Docker` `Microservices` `GraphQL`  `Powershell` `JavaScript` `SASS`
+`.NET` `C#` `Azure` `SQL` `WPF` `Elasticsearch` `Redis` `Git` `Docker` `Microservices` `GraphQL`  `Powershell` `JavaScript`
 
 ## Experience
+
+_Feb 2024 - Present_ · **Software Engineer** at Metrohm DropSens (Precision instruments for chemical analysis)
+* Developing and maintaining components for highly reliable enterprise Windows application.
+* Leading efforts to introduce ELK monitoring solution via workshops and POC implementation.
+* Using `.NET` `C#` `WPF` `SQL` `DDD` `SpecFlow` `Scrum` `ELK` `gRPC`
 
 _Sep 2018 - May 2022_ · **Senior Backend Engineer** at NEOCLES (B2B e-commerce platform for fashion)
 
@@ -27,7 +33,7 @@ _Sep 2018 - May 2022_ · **Senior Backend Engineer** at NEOCLES (B2B e-commerce 
 * Worked directly with clients conducting fit-gap analyses to integrate new services and features.
 * Used `.NET` `C#` `SQL` `Elasticsearch` `Azure` `Redis` `Docker` `AKS` `Service Bus`.
 
-_Jan 2017- Sep 2018_ · **Full-stack Developer** at INVESTEL (fleet management system)
+_Jan 2017- Sep 2018_ · **Full-stack Developer** at INVESTEL (Fleet management system)
 
 * Led development of an AngularJS management application for internal use.
 * Worked with designer on implementation of new Angular frontend for existing application.
@@ -42,13 +48,10 @@ _Sep 2022 - Present_ · **Ship Navigation Application** · `WinUI3` `C#` `.NET`
 * Integrated with Automatic Identification Systems (AIS) via serial port connection.
 
 _Mar 2023 - Oct 2023_ · **Portfolio Website: roquec.com** · `Jekyll` `JavaScript` `SASS`
-* Developed custom SASS styling to imitate Visual Studio Code look.
-* Created JavaScript solution for smooth SPA-like state through page navigations.
+* Developed custom JavaScript and SASS styling to imitate Visual Studio Code look and feel.
 * Automated deployments, Lighthouse testing and reporting using GitHub Actions and Powershell.
 
 ## Education
-
-_Nov 2019_ · **Microsoft Exam AZ-400** Designing and Implementing Microsoft DevOps Solutions.
 
 _2011 - 2016_ · **Bachelor's degree, Computer Software Engineering** from University of Oviedo, Spain.
 
