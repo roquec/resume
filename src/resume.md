@@ -22,7 +22,7 @@ I am an experienced software engineer with a pragmatic approach, valuing simplic
 _Feb 2024 - Present_ · **Software Engineer** at Metrohm DropSens (Precision instruments for chemical analysis)
 * Developing and maintaining components for highly reliable enterprise Windows application.
 * Leading efforts to introduce ELK monitoring solution via workshops and POC implementation.
-* Using `.NET` `C#` `WPF` `SQL` `DDD` `SpecFlow` `Scrum` `ELK` `gRPC`
+* Using `.NET` `C#` `WPF` `SQL` `DDD` `SpecFlow` `Scrum` `ELK` `gRPC` `MVVM` `UI`
 
 _Sep 2018 - May 2022_ · **Senior Backend Engineer** at NEOCLES (B2B e-commerce platform for fashion)
 
@@ -54,7 +54,3 @@ _Mar 2023 - Oct 2023_ · **Portfolio Website: roquec.com** · `Jekyll` `JavaScri
 ## Education
 
 _2011 - 2016_ · **Bachelor's degree, Computer Software Engineering** from University of Oviedo, Spain.
-
-## Languages
-
-**English** (Full professional proficiency) and **Spanish** (Native).
