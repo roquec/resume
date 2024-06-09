@@ -21,8 +21,9 @@ I am an experienced software engineer with a pragmatic approach, valuing simplic
 
 _Feb 2024 - Present_ · **Software Engineer** at Metrohm DropSens (Precision instruments for chemical analysis)
 * Developing and maintaining components for highly reliable enterprise Windows application.
+* Designing Windows desktop UI features using event-driven reactive programming.
 * Leading efforts to introduce ELK monitoring solution via workshops and POC implementation.
-* Using `.NET` `C#` `WPF` `SQL` `DDD` `SpecFlow` `Scrum` `ELK` `gRPC` `MVVM` `UI`
+* Using `.NET` `C#` `WPF` `SQL` `DDD` `SpecFlow` `Scrum` `ELK` `gRPC` `MVVM` `UI` `Rx.NET`
 
 _Sep 2018 - May 2022_ · **Senior Backend Engineer** at NEOCLES (B2B e-commerce platform for fashion)
 
@@ -43,7 +44,7 @@ _Jan 2017- Sep 2018_ · **Full-stack Developer** at INVESTEL (Fleet management s
 
 ## Projects
 
-_Sep 2022 - Present_ · **Ship Navigation Application** · `WinUI3` `C#` `.NET`
+_Sep 2022 - Present_ · **Ship Navigation Application** · `WinUI 3` `C#` `.NET`
 * Designed and build Windows desktop application based on clients requirements.
 * Integrated with Automatic Identification Systems (AIS) via serial port connection.
 
